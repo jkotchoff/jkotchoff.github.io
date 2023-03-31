@@ -1,2 +1,2 @@
 # jkotchoff.github.io
-Website for Jason Kotchoff's github account
+Website for the jkotchoff github account
